@@ -1,0 +1,16 @@
+PODS:
+  - AddressBookControl (0.1.0)
+
+DEPENDENCIES:
+  - AddressBookControl (from `../`)
+
+EXTERNAL SOURCES:
+  AddressBookControl:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AddressBookControl: dc4202b6b1d9f8e7c0fc6153d00d95f0c7e3e640
+
+PODFILE CHECKSUM: f4477e05b6c3e084b83b531843f62d11ac65aebb
+
+COCOAPODS: 1.1.1

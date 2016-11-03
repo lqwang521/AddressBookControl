@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AddressBookControl_Example' do
+  pod 'AddressBookControl', :path => '../'
+
+  target 'AddressBookControl_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

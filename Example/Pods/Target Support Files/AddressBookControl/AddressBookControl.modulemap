@@ -1,0 +1,6 @@
+framework module AddressBookControl {
+  umbrella header "AddressBookControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
